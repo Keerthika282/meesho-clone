@@ -1,7 +1,7 @@
 # Project Name: Meesho Clone
 
 ## Created By
-Kavin S
+Keerthika S
 
 ## Description
 This project is a simple e-commerce application inspired by Meesho. 
